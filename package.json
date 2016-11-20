@@ -1,0 +1,9 @@
+{
+  "name": "luisbelloch.github.io",
+  "version": "1.0.0",
+  "repository": "git@github.com:luisbelloch/luisbelloch.github.io.git",
+  "author": "Luis Belloch <luisbelloch@gmail.com>",
+  "dependencies": {
+    "normalize.css": "^5.0.0"
+  }
+}
