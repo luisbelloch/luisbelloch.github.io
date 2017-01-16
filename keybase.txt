@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/luisbelloch
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://luisbelloch.es
+  * I am luisbelloch (https://keybase.io/luisbelloch) on keybase.
+  * I have a public key ASBmqJgRV09wtmppRDhZk_U6-L5xKmP-Hl01BXBIpzW0OAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012066a89811574f70b66a6944385993f53af8be712a63fe1e5d35057048a735b4380a",
+            "host": "keybase.io",
+            "kid": "012066a89811574f70b66a6944385993f53af8be712a63fe1e5d35057048a735b4380a",
+            "uid": "aa392d059cdf33f77a1fcdd283f24719",
+            "username": "luisbelloch"
+        },
+        "service": {
+            "hostname": "luisbelloch.es",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1484601246,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1484601190,
+        "hash": "83275b98f87861a509f9b72907643cb7a0752622a12980b0699ebd6f8ff5569bcf9b80a55b7c357678ae954f1028a9aae9345b2eb97f2219a6acb40fb67ab2a7",
+        "seqno": 802448
+    },
+    "prev": "fa30a2b43d2bf0515f8c6a6823da788fa088055d4ad40cffc82658ab3676d0e6",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZqiYEVdPcLZqaUQ4WZP1Ovi+cSpj/h5dNQVwSKc1tDgKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNjZhODk4MTE1NzRmNzBiNjZhNjk0NDM4NTk5M2Y1M2FmOGJlNzEyYTYzZmUxZTVkMzUwNTcwNDhhNzM1YjQzODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjZhODk4MTE1NzRmNzBiNjZhNjk0NDM4NTk5M2Y1M2FmOGJlNzEyYTYzZmUxZTVkMzUwNTcwNDhhNzM1YjQzODBhIiwidWlkIjoiYWEzOTJkMDU5Y2RmMzNmNzdhMWZjZGQyODNmMjQ3MTkiLCJ1c2VybmFtZSI6Imx1aXNiZWxsb2NoIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJsdWlzYmVsbG9jaC5lcyIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODQ2MDEyNDYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4NDYwMTE5MCwiaGFzaCI6IjgzMjc1Yjk4Zjg3ODYxYTUwOWY5YjcyOTA3NjQzY2I3YTA3NTI2MjJhMTI5ODBiMDY5OWViZDZmOGZmNTU2OWJjZjliODBhNTViN2MzNTc2NzhhZTk1NGYxMDI4YTlhYWU5MzQ1YjJlYjk3ZjIyMTlhNmFjYjQwZmI2N2FiMmE3Iiwic2Vxbm8iOjgwMjQ0OH0sInByZXYiOiJmYTMwYTJiNDNkMmJmMDUxNWY4YzZhNjgyM2RhNzg4ZmEwODgwNTVkNGFkNDBjZmZjODI2NThhYjM2NzZkMGU2Iiwic2Vxbm8iOjEwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQJqaEvqwNnOjf0y0bJgE1RFBinvC1kNLUiA6WOvk++wLfI/qeYmw1LBShiXUZO7zxYSTh1nDwvyBPHbVbnHiyw2oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBRQ0doa33+ZU/VFH/qyl+xr/zq7IieTJ6+zi8muMr+paN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/luisbelloch
+
+==================================================================
